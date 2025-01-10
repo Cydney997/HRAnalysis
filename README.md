@@ -3,19 +3,16 @@
 
 📋 **OVERVIEW**
 
-This project demonstrates my SQL skills in database creation, relationship identification, and querying. This database includes key business tables that track employee information, department structures, job roles, and salary data. The queuries performed on this database answer important business questions and provide actionable insights for HR teams.
+This project demonstrates my SQL skills in database creation, relationship identification, and querying. The database includes key business tables that track employee information, department structures, job roles, and salary data. The queuries performed on this database answer important business questions and provide actionable insights for **HR teams**.
 
 ℹ️ **DATABASE SCHEMA**
 
-Table Name    Description
-
-Employees     Contains employee information such as names, hire dates, and job assignments.
-
-Departments  Stores information about the departments employees work in.
-
-Jobs          Defines job roles, including job titles and salary ranges.
-
-Salaries      Records the actual salary information for each employee.
+|Table Name |  Description|
+|-----------|---------------------------------------------------------------------------------|
+|Employees  |   Contains employee information such as names, hire dates, and job assignments.  |
+|Departments| Stores information about the departments employees work in.|
+|Jobs       |   Defines job roles, including job titles and salary ranges.|
+|Salaries   |  Records the actual salary information for each employee.|
 
 🔎 **SAMPLE QUERIES AND INSIGHTS**
 
@@ -31,7 +28,7 @@ Code:
 	
    GROUP BY j.job_title
 	
-   ORDERBY average_salary DESC;
+   ORDER BY average_salary DESC;
 	
    
 2. The IT department has the highest average salary.
