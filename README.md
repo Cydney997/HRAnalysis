@@ -46,3 +46,23 @@ Code:
   |[TableCreationHRA.sql](./TableCreationHRA.sql)| Queries used to create tables for the HR Analysis database.|
   |[InsertIntoHRA.sql](./InsertIntoHRA.sql)| Queries used to insert data into tables.|
   |[QueriesHRA.sql](./QueriesHRA.sql)| Complete list of sample queries.|
+  
+
+🔨 **TOOLS USED**
+
+* **SQL Server Management Studio** (SSMS)
+  
+* **Microsoft SQL Server**
+  
+* **Markdown** for project documentation
+  
+* **GitHub** for version control
+
+
+🤔 **Next Steps**
+* Add more queries to extract insights (e.g., employee tenure analysis).
+* Explore data visualization tools like Power BI or Tableau to present findings.
+* Document any additional insights gained from the queries.
+
+
+![CurtseyGIF](https://github.com/user-attachments/assets/ce34a8fc-be23-4747-90ca-86676222201c)
