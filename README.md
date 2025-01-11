@@ -43,5 +43,6 @@ Code:
   
   |File Name | Description|
   |-----------|--------------------------------------------------------------------------------|
-  |[TableCreationHRA.sql](./TableCreationHRA.sql)| Queries used to create tables for the HR Analysis database.
-  | 
+  |[TableCreationHRA.sql](./TableCreationHRA.sql)| Queries used to create tables for the HR Analysis database.|
+  |[InsertIntoHRA.sql](./InsertIntoHRA.sql)| Queries used to insert data into tables|
+  
