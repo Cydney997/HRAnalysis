@@ -44,5 +44,5 @@ Code:
   |File Name | Description|
   |-----------|--------------------------------------------------------------------------------|
   |[TableCreationHRA.sql](./TableCreationHRA.sql)| Queries used to create tables for the HR Analysis database.|
-  |[InsertIntoHRA.sql](./InsertIntoHRA.sql)| Queries used to insert data into tables|
-  
+  |[InsertIntoHRA.sql](./InsertIntoHRA.sql)| Queries used to insert data into tables.|
+  |[QueriesHRA.sql](./QueriesHRA.sql)| Complete list of sample queries.|
