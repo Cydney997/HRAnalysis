@@ -3,7 +3,7 @@
 
 📋 **OVERVIEW**
 
-This project demonstrates my SQL skills in database creation, relationship identification, and querying. The database includes key business tables that track employee information, department structures, job roles, and salary data. The queuries performed on this database answer important business questions and provide actionable insights for **HR teams**. (I lol'd at this title because I'm a big D&D fan, enjoy!)
+This project demonstrates my SQL skills in database creation, relationship identification, and querying. The database includes key business tables that track employee information, department structures, job roles, and salary data. The queuries performed on this database answer important business questions and provide actionable insights for **HR teams**.
 
 ℹ️ **DATABASE SCHEMA**
 
