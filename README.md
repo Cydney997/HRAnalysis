@@ -1,4 +1,4 @@
-# Tome-of-the-SQLmancer
+# HRAnalysis
 👩🏾‍💻 **HR Business Analysis Project (SQL)**
 
 📋 **OVERVIEW**
